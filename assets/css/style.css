@@ -19,6 +19,24 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-family: "Roboto", sans-serif;
 }
 
+.whatsapp {
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:40px;
+  left:40px;
+  background-color:#25d366;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  z-index:100;
+
+}
+
+.whatsapp-icon {
+  margin-top:13px;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
